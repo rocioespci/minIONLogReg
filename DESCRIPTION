@@ -1,0 +1,11 @@
+Package: minIONLogReg
+Type: Package
+Title: minION Qscores correction
+Version: 0.1.0
+Author: R. Espada 
+Maintainer: R. Espada <rocio.espada@escpi.fr>
+Description: This code os to apply on minION reads the Qscore correction described in Espada et al 2020.
+Encoding: UTF-8
+LazyData: true
+Depends: dplyr, plyr,tidyr,reshape2
+License: MIT
